@@ -1,3 +1,3 @@
-# Java---Armstrong-numbers
+# Java-Programs
 
->Displays the armstrong numbers.
+>Includes the Java programs.
