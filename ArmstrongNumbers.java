@@ -1,8 +1,8 @@
 //Check if a number is Armstrong or not.
-package java5;
+package codingbat;
 import java.util.Scanner;
 
-public class Java5 {
+public class ArmstrongNumbers {
     static int sum = 0;
     static int ar = 0;
     static int armstrongnum = 0;

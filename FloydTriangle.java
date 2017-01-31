@@ -1,8 +1,8 @@
 // Floyd Triangle
-package java6;
+package codingbat;
 import java.util.Scanner;
 
-public class Java6 {
+public class FloydTriangle {
     static int count= 1;
     
     public static void print(int rows){

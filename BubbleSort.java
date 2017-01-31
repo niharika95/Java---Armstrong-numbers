@@ -1,8 +1,8 @@
 // Bubble Sort
-package java9;
+package codingbat;
 import java.util.Random;
 
-public class Java9 {
+public class BubbleSort {
     static int set[] = new int[10]; 
 
     public static void generateRandom(){

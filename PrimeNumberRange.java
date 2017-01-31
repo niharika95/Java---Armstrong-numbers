@@ -1,8 +1,8 @@
 //Prime numbers in a given range.
-package java4;
+package codingbat;
 import java.util.Scanner;
 
-public class Java4 {
+public class PrimeNumberRange {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the starting number:");

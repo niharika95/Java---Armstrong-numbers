@@ -1,8 +1,8 @@
 // Factorial of a number
-package java3;
+package codingbat;
 import java.util.Scanner;
 
-public class Java3 {
+public class Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");

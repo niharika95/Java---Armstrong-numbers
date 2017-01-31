@@ -1,10 +1,10 @@
 // Binary Search
-package java8;
+package codingbat;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Java8 {
+public class BinarySearch {
     static int set[] = new int[10];
     
     public static void generateRandom(){

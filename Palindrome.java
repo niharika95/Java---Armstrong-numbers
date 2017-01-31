@@ -1,7 +1,7 @@
 // Palindrome
-package java7;
+package codingbat;
 import java.util.Scanner;
-public class Java7 {
+public class Palindrome {
     public static void checkPalindrome(String orgStr){
         String revStr = orgStr;
         String temp = "";

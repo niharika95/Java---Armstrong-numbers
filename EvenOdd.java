@@ -1,8 +1,8 @@
 //Even-Odd
-package java1;
+package codingbat;
 import java.util.Scanner;
 
-public class Java1 {
+public class EvenOdd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num=0;
